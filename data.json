@@ -1,0 +1,169 @@
+{
+  "result": {
+    "calculation_type": "APPROX",
+    "combination_reliability_measure": [
+      { "exp": "3.0", "reliabilityMeasure": "HIGH", "dataPoints": 930559 },
+      { "exp": "2.0", "reliabilityMeasure": "HIGH", "dataPoints": 928247 },
+      { "exp": "1.0", "reliabilityMeasure": "HIGH", "dataPoints": 858793 },
+      { "exp": "4.0", "reliabilityMeasure": "HIGH", "dataPoints": 779291 },
+      { "exp": "5.0", "reliabilityMeasure": "HIGH", "dataPoints": 660731 },
+      { "exp": "6.0", "reliabilityMeasure": "HIGH", "dataPoints": 463800 },
+      { "exp": "0.0", "reliabilityMeasure": "HIGH", "dataPoints": 443127 },
+      { "exp": "7.0", "reliabilityMeasure": "HIGH", "dataPoints": 436483 },
+      { "exp": "8.0", "reliabilityMeasure": "HIGH", "dataPoints": 409589 },
+      { "exp": "10.0", "reliabilityMeasure": "HIGH", "dataPoints": 319171 },
+      { "exp": "9.0", "reliabilityMeasure": "HIGH", "dataPoints": 300333 },
+      { "exp": "12.0", "reliabilityMeasure": "HIGH", "dataPoints": 207681 },
+      { "exp": "11.0", "reliabilityMeasure": "HIGH", "dataPoints": 180834 },
+      { "exp": "13.0", "reliabilityMeasure": "HIGH", "dataPoints": 142120 },
+      { "exp": "14.0", "reliabilityMeasure": "HIGH", "dataPoints": 128876 },
+      { "exp": "15.0", "reliabilityMeasure": "HIGH", "dataPoints": 125363 }
+    ],
+    "_25.0": [
+      { "exp": "3.0", "ctc": "2.4" },
+      { "exp": "2.0", "ctc": "2.0" },
+      { "exp": "1.0", "ctc": "1.5" },
+      { "exp": "4.0", "ctc": "2.84" },
+      { "exp": "5.0", "ctc": "3.0" },
+      { "exp": "6.0", "ctc": "3.3" },
+      { "exp": "0.0", "ctc": "0.07" },
+      { "exp": "7.0", "ctc": "3.6" },
+      { "exp": "8.0", "ctc": "4.0" },
+      { "exp": "10.0", "ctc": "4.2" },
+      { "exp": "9.0", "ctc": "4.32" },
+      { "exp": "12.0", "ctc": "5.18" },
+      { "exp": "11.0", "ctc": "5.19" },
+      { "exp": "13.0", "ctc": "5.99" },
+      { "exp": "14.0", "ctc": "6.0" },
+      { "exp": "15.0", "ctc": "5.62" }
+    ],
+    "_75.0": [
+      { "exp": "3.0", "ctc": "4.72" },
+      { "exp": "2.0", "ctc": "3.66" },
+      { "exp": "1.0", "ctc": "3.0" },
+      { "exp": "4.0", "ctc": "6.0" },
+      { "exp": "5.0", "ctc": "6.82" },
+      { "exp": "6.0", "ctc": "7.58" },
+      { "exp": "0.0", "ctc": "2.5" },
+      { "exp": "7.0", "ctc": "9.0" },
+      { "exp": "8.0", "ctc": "10.0" },
+      { "exp": "10.0", "ctc": "11.19" },
+      { "exp": "9.0", "ctc": "11.0" },
+      { "exp": "12.0", "ctc": "14.51" },
+      { "exp": "11.0", "ctc": "13.77" },
+      { "exp": "13.0", "ctc": "16.38" },
+      { "exp": "14.0", "ctc": "17.66" },
+      { "exp": "15.0", "ctc": "18.0" }
+    ],
+    "_50.0": [
+      { "exp": "3.0", "ctc": "3.31" },
+      { "exp": "2.0", "ctc": "2.6" },
+      { "exp": "1.0", "ctc": "2.12" },
+      { "exp": "4.0", "ctc": "4.0" },
+      { "exp": "5.0", "ctc": "4.48" },
+      { "exp": "6.0", "ctc": "5.0" },
+      { "exp": "0.0", "ctc": "1.5" },
+      { "exp": "7.0", "ctc": "5.67" },
+      { "exp": "8.0", "ctc": "6.26" },
+      { "exp": "10.0", "ctc": "6.8" },
+      { "exp": "9.0", "ctc": "6.99" },
+      { "exp": "12.0", "ctc": "8.99" },
+      { "exp": "11.0", "ctc": "8.51" },
+      { "exp": "13.0", "ctc": "10.0" },
+      { "exp": "14.0", "ctc": "10.55" },
+      { "exp": "15.0", "ctc": "10.24" }
+    ],
+    "overall_data_points": "7382078"
+  },
+  "dropDowns": [
+    {
+      "name": "Industry",
+      "values": {
+        "_25": "IT-Software / Software Services",
+        "_14": "Banking and financial services",
+        "_8": "Accounts and finance",
+        "_12": "Construction / Engineering",
+        "_9": "FMCG / Foods / Beverage",
+        "_4": "Auto / Auto Ancillary",
+        "_7": "BPO / ITES",
+        "_23": "Oil and Gas / Power / Infrastructure / Energy",
+        "_16": "Industrial Products",
+        "_22": "Pharma / Biotech",
+        "_15": "IT-Hardware & Networking",
+        "_26": "Education / Teaching",
+        "_27": "Telecom / ISP",
+        "_20": "Medical / Healthcare / Hospital",
+        "_2": "Hotels / Airlines / Travel",
+        "_-5555": "Others"
+      },
+      "Columnname": "IND_TYPE_FOR_DD",
+      "position": 1,
+      "visible": true
+    },
+    {
+      "name": "Functional Area",
+      "values": {
+        "_19": "Production / Maintenance / Quality",
+        "_1": "Accounts / Finance / Tax / Company Secretary / Audit",
+        "_61": "IT-Software",
+        "_22": "Sales / Retail / Business Development",
+        "_12": "HR / Recruitment / Administration / IR",
+        "_20": "Site Engineering / Project Management",
+        "_8": "ITES / BPO / KPO / LPO / Customer Service / Operations",
+        "_6": "Banking / Insurance",
+        "_21": "Engineering Design / R&D",
+        "_15": "Marketing / Advertising / MR / PR",
+        "_14": "Purchase / Logistics / Supply Chain",
+        "_16": "Medical / Healthcare / R&D / Pharmaceuticals / Biotechnology",
+        "_37": "IT-Hardware / Telecom / Technical Staff / Support",
+        "_36": "Teaching / Education",
+        "_81": "Analytics & Business Intelligence",
+        "_4": "Hotels / Restaurants",
+        "_3": "Web / Graphic Design / Visualiser",
+        "_-5555": "Others"
+      },
+      "Columnname": "FAREA_FOR_DD",
+      "position": 2,
+      "visible": true
+    },
+    {
+      "name": "Gender",
+      "values": { "_f": "Female", "_m": "Male" },
+      "Columnname": "GENDER",
+      "position": 5,
+      "visible": true
+    },
+    {
+      "name": "Location",
+      "values": {
+        "_3": "Bengaluru",
+        "_10": "Mumbai",
+        "_6": "Delhi",
+        "_5": "Chennai",
+        "_8": "Hyderabad",
+        "_12": "Pune",
+        "_7": "Gurugram",
+        "_9": "Kolkata",
+        "_11": "Noida",
+        "_2": "Ahmedabad",
+        "_-5555": "Others"
+      },
+      "Columnname": "CITY_FOR_DD",
+      "position": 6,
+      "visible": true
+    },
+    {
+      "name": "Highest Level of Qualification",
+      "values": {
+        "_1": "Bachelor's Degree",
+        "_2": "Master's Degree",
+        "_3": "Doctorate"
+      },
+      "Columnname": "EDU_TYPE_FOR_DD",
+      "position": 7,
+      "visible": true
+    }
+  ],
+  "message": "Success",
+  "status": "OK"
+}
